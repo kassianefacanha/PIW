@@ -41,6 +41,7 @@ module.exports.cadastrarUsuarios = function(req, res){
 
 module.exports.deletarUsuario = function(req, res){
     let id = req.params.id;
+    let token = req.headers.token;
     let paypload = jwt.decode(token);
     let aut_id = paypload.id;
     if(id != aut_id){
