@@ -1,0 +1,38 @@
+.navegador{
+    display: flex;
+    height: 100px;
+    background-color:black;
+    
+}
+
+img{
+    width: 100px;
+    display: flex;
+    padding: 15px;
+    margin-right: 220px;
+}
+
+
+a{
+    color: black;
+    background-color:white;
+    text-decoration: none;
+    text-align: center;
+    height: 80px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 30px;
+    padding-right: 30px;
+}
+
+
+a:hover{
+    color: white;
+    background-color: rgb(109, 102, 102);
+}
+
+#Nome{
+    color: white;
+    background-color:rgb(167, 154, 154);
+
+}

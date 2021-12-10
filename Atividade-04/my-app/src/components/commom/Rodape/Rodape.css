@@ -1,0 +1,23 @@
+.rodape{
+    color: white;
+    padding: 10px;
+    background-color: black;
+    height: 100px;
+    text-align: center;
+    align-items: center;
+    
+}
+
+.titulo{
+    color:white;
+    padding: 0px;
+    margin-top:  0px;
+
+}
+
+.logotipo{
+    padding: 0px;
+    width:10%;
+    margin-top: 0px;
+    margin-left: 300px;
+}
