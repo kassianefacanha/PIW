@@ -1,0 +1,26 @@
+.navegador{
+    display: flex;
+    height: 50px;
+    width: 700px;
+    margin: auto;
+    align-items: center;
+    background-color:rgb(130, 12, 226);
+}
+
+a{
+    color: black;
+    background-color:white;
+    text-decoration: none;
+    text-align: center;
+    height: 20px;
+    padding: 10px;
+
+}
+
+img{
+    width: 100px;
+    padding: 15px;
+    margin-right: 220px;
+}
+
+
