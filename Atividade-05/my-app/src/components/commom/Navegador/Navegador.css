@@ -13,9 +13,8 @@ img{
 }
 
 
-a{
-    color: black;
-    background-color:white;
+.botao-nav{
+    color:white;
     text-decoration: none;
     text-align: center;
     height: 80px;
@@ -25,14 +24,14 @@ a{
     padding-right: 30px;
 }
 
-
-a:hover{
-    color: white;
+ .navegador .botao-nav.active {
     background-color: rgb(109, 102, 102);
 }
 
-#Nome{
-    color: white;
-    background-color:rgb(167, 154, 154);
+a:hover{
+    background-color: white;
+    color: black;
 
 }
+
+

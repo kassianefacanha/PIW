@@ -1,0 +1,34 @@
+.Perfil td{
+    text-align: justify;
+}
+
+.title{
+    font-size: 1.2rem;
+    font-weight: 900;
+    margin:10px;
+    text-align: center;
+    width: 100px;
+}
+
+tr{
+   padding:3px; 
+}
+
+.textoPerfil{
+    width: 400px;
+    height:200px;
+    background-color: rgb(172, 168, 168);
+    color: white;
+    border: 1.5px;
+    border-radius: 10px;
+    display:flex;
+    flex-direction: column;
+    margin-left: 290px;
+    margin-top: -195px;
+    margin-bottom: 10px;
+}
+.fotoPerfil{
+    width: 250px;
+    height:200px;
+    margin-bottom: 10px;
+}
