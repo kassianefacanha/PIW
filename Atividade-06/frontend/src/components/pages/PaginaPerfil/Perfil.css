@@ -1,0 +1,91 @@
+
+
+.titlePeril{
+    font-size: 2rem;
+    font-weight: 900;
+    margin-left:10px;
+    text-align: center;
+}
+
+
+.title{
+    
+    margin:0px;
+}
+
+table{
+    width:300px;
+    margin-left: 200px;
+}
+.textoPerfil{
+    width: 680px;
+    height:200px;
+    background-color: rgb(172, 168, 168);
+    color: white;
+    border: 1.5px;
+    border-radius: 10px;
+    display:flex;
+    flex-direction: column;
+    margin-bottom: 10px;
+    padding: 10px;
+}
+
+.bloco{
+    width: 700px;
+    background-color: gray;
+    color: white;
+    border: 1.5px;
+    border-radius: 10px;
+    display:flex;
+    flex-direction: column;
+    margin-left: -3px;
+}
+.post{
+    width: 700px;
+    background-color: gray;
+    color: white;
+    border: 1.5px;
+    border-radius: 10px;
+    display:flex;
+    flex-direction: column;
+ 
+}
+.user{
+    font-size: 1.2rem;
+    font-weight: 900;
+    margin-left:10px;
+    margin-top: 20px;
+
+}
+.text{
+    text-align: justify;
+    font-size: 1rem;
+    margin-top: 30px; 
+    margin-left:25px; 
+    width:650px;
+    height: 100px;
+    background-color: white;
+    color:gray;
+}
+.text2{
+    margin-left: 20px;
+}
+.likes{
+    margin-top: 20px;
+    margin:10px;
+    font-weight: 900;
+    
+}
+
+.likes button{
+    width:50px;
+    height:40px;
+    cursor: pointer;
+    display: flex;
+    align-items: center;
+    margin-left: auto;
+    margin-top: -20px;
+    border-radius: 10px;
+    
+
+}

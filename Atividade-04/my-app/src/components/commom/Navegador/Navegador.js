@@ -11,7 +11,7 @@ export function Navegador(){
     )
 
     return(            
-        <nav class="navegador">
+        <nav className="navegador">
             <img src={Img} alt="Logo"></img>
             <Botao nomeBotao="Linha do Tempo" botaoClass="botao-Linha-do-Tempo" ></Botao>
             <Botao nomeBotao="Postar" botaoClass="botao-Postar"></Botao>

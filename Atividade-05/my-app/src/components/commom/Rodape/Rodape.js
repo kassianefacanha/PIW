@@ -7,8 +7,8 @@ export function Rodape(){
        <footer className="rodape">
            <div >
            
-           <img class="logotipo" src={Img} alt="Logo"></img><br/>
-           <h1 class="titulo">SUA REDE SOCIAL</h1>
+           <img className="logotipo" src={Img} alt="Logo"></img><br/>
+           <h1 className="titulo">SUA REDE SOCIAL</h1>
             </div>
             {/* <nav class="redes">
                 <ul>

@@ -1,0 +1,38 @@
+.formCadastro{
+    border-top: 20px;
+    border-color: white;
+    width: 700px;
+    background-color: rgb(168, 168, 168);
+    color: white;
+    border: 1.5px;
+    border-radius: 10px;
+    display:flex;
+    flex-direction: column;
+}
+.title{
+    font-size: 1.3rem;
+    font-weight: 900;
+    margin:10px;
+    text-align: center;
+    margin-left: 305px;
+}
+.texto{
+    width:588px;
+    height:40px;
+    cursor: pointer;
+    border-radius: 20px;
+    margin-top: 20px;
+    text-align: center;
+}
+.botao-publicar{
+    width:70px;
+    height:40px;
+    cursor: pointer;
+    display: flex;
+    text-align: center;
+    align-items: center;
+    border-radius: 10px;
+    margin-top: 20px;
+    margin-left: 310px;
+
+}
